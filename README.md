@@ -2,7 +2,7 @@
 
 Welcome to our CTP presentation rehearsal page! This project was intended to be a polished HTML page for our presentation, but let's be honest—it was a bit rushed. We were behind schedule, and I ended up editing the second half of the document in the middle of class (classic, right?). We only rehearsed for 5 minutes before class started, but it all came together beautifully in the end. Huge kudos to my teammates, who did an amazing job pulling things together! Also, Hussam, our invisible teamate :V
 
-##**How It Went**
+#**How It Went**
 
 **What happened:** Well, we were a little behind on progress, but we definitely nailed it during the rehearsal.
 **What I did:** I wasted way too much time diving into random rabbit holes during class, from machine learning basics to duck studies, to the Tetris documentary. It was all inspired by Hussam’s "Back Then Magic" (you know who you are, Hussam).
